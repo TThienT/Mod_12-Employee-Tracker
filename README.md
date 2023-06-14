@@ -17,7 +17,7 @@ Clone this repo and try out the app for yourself in the terminal!!
 
 ## Usage
 
-put link of tutorial video
+Tutorial Video: https://drive.google.com/file/d/1-g3jcAd1CI94nXFb1CC4-sei0Lw0Tw2E/view?usp=sharing
 
 
 ## Credits
